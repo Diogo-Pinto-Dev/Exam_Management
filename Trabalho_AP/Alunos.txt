@@ -1,0 +1,2 @@
+1;Rodrigo;3;EI;Normal
+26357;Diogo;2;Engenharia informatica;Dirigente associativo

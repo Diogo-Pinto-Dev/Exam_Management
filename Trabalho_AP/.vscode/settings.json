@@ -1,0 +1,29 @@
+{
+    "hide-files.files": [
+        "Untitled-1.exe",
+        "Principal.exe",
+        "funcoes.exe",
+        "Menus.exe",
+        "Z_Principal.exe"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "Untitled-1.exe": true,
+        "Principal.exe": true,
+        "funcoes.exe": true,
+        "Menus.exe": true,
+        "Z_Principal.exe": true
+    },
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "conio.h": "c",
+        "ctype.h": "c"
+    }
+}
